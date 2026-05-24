@@ -11,7 +11,7 @@ from io import BytesIO
 plt.style.use('seaborn-v0_8-dark')
 
 # Set your OpenAI API key
-openai.api_key = 'sk-proj-7poJ0QSmvWxvPTPxFDjcT3BlbkFJ1a47knYMxWcxEjDIwSmO'
+openai.api_key = ''
 
 # Define FinancialInstrument class
 class FinancialInstrument:
